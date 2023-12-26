@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ucheabbaproject2","l":"UcheAbbaAccount"},{"p":"ucheabbaproject2","l":"UcheAbbaBusinessCustomer"},{"p":"ucheabbaproject2","l":"UcheAbbaCustomer"},{"p":"ucheabbaproject2","l":"UcheAbbaRetailCustomer"},{"p":"ucheabbaproject2","l":"UcheAbbaTest"}];updateSearchResults();
